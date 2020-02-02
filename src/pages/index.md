@@ -74,10 +74,8 @@ sections:
         title: Aliquam urna dapibus
     section_id: two
     subtitle: >-
-      Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis
-      mauris, eu ultricies erat malesuada quis. Aliquam dapibus, lacus eget
-      hendrerit bibendum, urna est aliquam sem, sit amet imperdiet est velit
-      quis lorem.
+      We help people and organizations to build, innovate and collaborate into
+      businesses by unlocking the potential of Blockchain Technology.
     title: What we do
     type: features
   - background_style: style1
