@@ -34,7 +34,7 @@ sections:
         is_scrolly: false
         label: Learn more
         url: /generic
-    background_style: style3
+    background_style: style4
     component: Features
     features_list:
       - icon: fa-code
