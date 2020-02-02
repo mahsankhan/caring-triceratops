@@ -29,11 +29,6 @@ sections:
       products.
     title: Go4 Blockchain
     type: intro
-  - background_style: style2
-    component: Spotlights
-    section_id: one
-    title: Spotlights Section
-    type: spotlights
   - actions:
       - is_primary: false
         is_scrolly: false
@@ -78,6 +73,11 @@ sections:
       businesses by unlocking the potential of Blockchain Technology.
     title: What we do
     type: features
+  - background_style: style2
+    component: Spotlights
+    section_id: one
+    title: Spotlights Section
+    type: spotlights
   - background_style: style1
     component: Contact
     contact_list:
