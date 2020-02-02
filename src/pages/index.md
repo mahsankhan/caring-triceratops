@@ -1,5 +1,5 @@
 ---
-title: 'Go4 Blockchain - Blockchain Innovation, Research, Development.'
+title: 'Blockchain Innovation, Research, Development.'
 sidebar:
   entries:
     - is_primary: true
@@ -23,10 +23,11 @@ sections:
     background_style: style1
     component: Intro
     section_id: intro
-    subtitle: |-
-      Cras aliquam amet adipiscing nibh faucibus suscipit ut Parturient  
-      col accumsan est arcu donec sed Eleifend Integer.
-    title: Hyperspace
+    subtitle: >-
+      Go4 Blockchain offers Blockchain services to forward thinking people and
+      organizations interested to build or revamp processes, services and
+      products.
+    title: Go4 Blockchain
     type: intro
   - background_style: style2
     component: Spotlights
