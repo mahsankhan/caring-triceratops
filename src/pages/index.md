@@ -67,7 +67,7 @@ sections:
           Phasellus convallis elit id ullam corper amet et pulvinar. Duis
           aliquam turpis mauris, sed ultricies erat dapibus.
         title: Aliquam urna dapibus
-    section_id: two
+    section_id: one
     subtitle: >-
       We help people and organizations to build, innovate and collaborate into
       businesses by unlocking the potential of Blockchain Technology.
@@ -75,7 +75,7 @@ sections:
     type: features
   - background_style: style2
     component: Spotlights
-    section_id: one
+    section_id: two
     title: Spotlights Section
     type: spotlights
   - background_style: style1
