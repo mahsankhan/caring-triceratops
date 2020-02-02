@@ -1,7 +1,10 @@
 landing_style: style1-alt
 alt_style: alt
-copyright: '&copy; Hyperspace. All rights reserved.'
+copyright: '&copy; Go4 Emerging Tech Solutions (SMC-Private) Limited. All rights reserved.'
 links:
-  - text: Made with Stackbit
-    url: 'https://www.stackbit.com'
-    new_window: true
+  - new_window: true
+    text: Developed using JAMStack.
+    url: 'https://jamstack.org/'
+  - new_window: true
+    text: Powered by Netlify.
+    url: 'https://www.netlify.com'
