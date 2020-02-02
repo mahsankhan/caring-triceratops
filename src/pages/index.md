@@ -7,10 +7,10 @@ sidebar:
       url: '#intro'
     - is_primary: false
       title: What we do
-      url: '#two'
+      url: '#one'
     - is_primary: false
       title: Who we are
-      url: '#one'
+      url: '#two'
     - is_primary: false
       title: Get in touch
       url: '#three'
