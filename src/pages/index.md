@@ -72,6 +72,11 @@ sections:
       businesses by unlocking the potential of Blockchain Technology.**
     title: What we do
     type: features
+  - background_style: style2
+    component: Spotlights
+    section_id: two
+    title: Spotlights Section
+    type: spotlights
   - background_style: style1
     component: Contact
     contact_list:
