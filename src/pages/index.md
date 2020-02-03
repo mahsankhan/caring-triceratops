@@ -39,38 +39,40 @@ sections:
     features_list:
       - icon: fa-code
         text: >-
-          Phasellus convallis elit id ullam corper amet et pulvinar. Duis
-          aliquam turpis mauris, sed ultricies erat dapibus.
-        title: Lorem ipsum amet
+          Gain insight into business model prototyping, use case discovery,
+          market analysis, and proofs-of-concept to develop comprehensive
+          strategies for blockchain adoption.
+        title: Strategic Blockchain Advisory
       - icon: fa-lock
         text: >-
-          Phasellus convallis elit id ullam corper amet et pulvinar. Duis
-          aliquam turpis mauris, sed ultricies erat dapibus.
-        title: Aliquam sed nullam
+          Discover, design and rapidly prototype blockchain solutions from
+          proof-of-concept to technology pilot that meet your organization’s
+          needs.
+        title: Solutions Design & Development
       - icon: fa-cog
         text: >-
-          Phasellus convallis elit id ullam corper amet et pulvinar. Duis
-          aliquam turpis mauris, sed ultricies erat dapibus.
-        title: Sed erat ullam corper
+          Benefit from seamless technical implementation, solution delivery,
+          system integration, and a full suite of ongoing support services.
+        title: Solution Deployment & Customer Success
       - icon: fa-desktop
         text: >-
-          Phasellus convallis elit id ullam corper amet et pulvinar. Duis
-          aliquam turpis mauris, sed ultricies erat dapibus.
-        title: Veroeros quis lorem
+          Jumpstart ideation, explore the art of the possible and turn concepts
+          into cutting-edge solutions.
+        title: Use Case Development
       - icon: fa-chain
         text: >-
           Phasellus convallis elit id ullam corper amet et pulvinar. Duis
           aliquam turpis mauris, sed ultricies erat dapibus.
-        title: Urna quis bibendum
+        title: Education
       - icon: fa-diamond
         text: >-
           Phasellus convallis elit id ullam corper amet et pulvinar. Duis
           aliquam turpis mauris, sed ultricies erat dapibus.
-        title: Aliquam urna dapibus
+        title: Co Create
     section_id: one
     subtitle: >-
-      We help people and organizations to build, innovate and collaborate into
-      businesses by unlocking the potential of Blockchain Technology.
+      **We help people and organizations to build, innovate and collaborate into
+      businesses by unlocking the potential of Blockchain Technology.**
     title: What we do
     type: features
   - background_style: style2
