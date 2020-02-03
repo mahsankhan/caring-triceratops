@@ -20,7 +20,7 @@ sections:
         is_scrolly: true
         label: Learn more
         url: '#one'
-    background_style: style1
+    background_style: style4
     component: Intro
     section_id: intro
     subtitle: >-
