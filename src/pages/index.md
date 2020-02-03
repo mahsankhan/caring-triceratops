@@ -24,9 +24,9 @@ sections:
     component: Intro
     section_id: intro
     subtitle: >-
-      Go4 Blockchain offers Blockchain services to forward thinking people and
+      **Go4 Blockchain offers Blockchain services to forward thinking people and
       organizations interested to build or revamp processes, services and
-      products.
+      products.**
     title: Go4 Blockchain
     type: intro
   - actions:
