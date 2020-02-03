@@ -9,6 +9,9 @@ sidebar:
       title: What we do
       url: '#one'
     - is_primary: false
+      title: How we disrupting
+      url: '#two'
+    - is_primary: false
       title: Get in touch
       url: '#three'
 sections:
