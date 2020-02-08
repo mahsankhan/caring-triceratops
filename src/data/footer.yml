@@ -3,8 +3,10 @@ alt_style: alt
 copyright: '&copy; Go4 Emerging Tech Solutions (SMC-Private) Limited. All rights reserved.'
 links:
   - new_window: true
-    text: Developed using JAMStack.
+    text: Developed using JAMStack
     url: 'https://jamstack.org/'
   - new_window: true
-    text: Powered by Netlify.
+    text: Powered by Netlify
     url: 'https://www.netlify.com'
+  - new_window: true
+    text: Disclaimer
