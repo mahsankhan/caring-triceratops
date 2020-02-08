@@ -96,21 +96,12 @@ sections:
     section_id: three
     social:
       social_icons:
+        - icon: fa-medium
+          title: Medium
         - icon: fa-twitter
           title: Twitter
-          url: '#'
         - icon: fa-facebook
           title: Facebook
-          url: '#'
-        - icon: fa-github
-          title: GitHub
-          url: '#'
-        - icon: fa-instagram
-          title: Instagram
-          url: '#'
-        - icon: fa-linkedin
-          title: LinkedIn
-          url: '#'
       title: Social
     text: Send us your query to start your Blockchain journey!
     title: Get in touch
