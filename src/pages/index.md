@@ -37,18 +37,22 @@ sections:
     background_style: style4
     component: Features
     features_list:
-      - icon: fa-code
-        text: >-
-          Gain insight into business model prototyping, use case discovery,
-          market analysis, and proofs-of-concept to develop comprehensive
-          strategies for blockchain adoption.
-        title: Strategic Blockchain Advisory
       - icon: fa-lock
         text: >-
           Discover, design and rapidly prototype blockchain solutions from
           proof-of-concept to technology pilot that meet your organization’s
           needs.
         title: Solutions Design & Development
+      - text: >-
+          Phasellus convallis elit id ullam corper amet et pulvinar. Duis
+          aliquam turpis mauris, sed ultricies erat dapibus.
+        title: Blockchain Consultancy
+      - icon: fa-code
+        text: >-
+          Gain insight into business model prototyping, use case discovery,
+          market analysis, and proofs-of-concept to develop comprehensive
+          strategies for blockchain adoption.
+        title: Strategic Blockchain Advisory
       - icon: fa-cog
         text: >-
           Benefit from seamless technical implementation, solution delivery,
@@ -69,6 +73,10 @@ sections:
           Phasellus convallis elit id ullam corper amet et pulvinar. Duis
           aliquam turpis mauris, sed ultricies erat dapibus.
         title: Co Create
+      - text: >-
+          Phasellus convallis elit id ullam corper amet et pulvinar. Duis
+          aliquam turpis mauris, sed ultricies erat dapibus.
+        title: Research
     section_id: one
     subtitle: >-
       **We help people and organizations to build, innovate and collaborate into
@@ -83,16 +91,9 @@ sections:
   - background_style: style1
     component: Contact
     contact_list:
-      - text: |-
-          12345 Somewhere Road #654
-          Nashville, TN 00000-0000
-          USA
-        title: Address
-      - text: user@Hyperspace.tld
+      - text: hey@go4blockchain.com
         title: Email
         url: '#'
-      - text: (000) 000-0000
-        title: Phone
     section_id: three
     social:
       social_icons:
