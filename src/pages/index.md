@@ -33,7 +33,7 @@ sections:
       - is_primary: false
         is_scrolly: false
         label: Learn more
-        url: /generic
+        url: '#two'
     background_style: style4
     component: Features
     features_list:
