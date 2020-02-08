@@ -1,16 +1,14 @@
 ---
-title: Ultricies aliquam
-content_img_path: images/pic04.jpg
+title: EdTech
+content_img_path: ''
 home_spotlights:
   enabled: true
-  weight: 3
-  excerpt: >-
-    Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis
-    mauris, eu ultricies erat malesuada quis. Aliquam dapibus.
+  excerpt: Test EdTech
   home_img:
-    path: images/pic03.jpg
     data_position: 25% 25%
+    path: ''
     url: '#'
+  weight: 3
 template: page
 ---
 
