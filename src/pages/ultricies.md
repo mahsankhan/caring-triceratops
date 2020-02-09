@@ -1,9 +1,9 @@
 ---
-title: EdTech
+title: We are focused to disrupt industries
 content_img_path: ''
 home_spotlights:
   enabled: true
-  excerpt: Test EdTech
+  excerpt: We are focused to disrupt industries
   home_img:
     data_position: 25% 25%
     path: ''
@@ -11,7 +11,12 @@ home_spotlights:
   weight: 3
 template: page
 ---
-
 Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fergiat. Pellentesque in mi eu massa lacinia malesuada et a elit. Donec urna ex, lacinia in purus ac, pretium pulvinar mauris. Curabitur sapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit tristique.
 
 Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fersapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit tristique lorem ipsum dolor.
+
+* FinTech
+* GovTech
+* RegTech
+* HealthTech
+* and more
