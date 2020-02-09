@@ -1,5 +1,5 @@
 ---
-title: We are focused to disrupt industries
+title: Disrupting Industries
 content_img_path: ''
 home_spotlights:
   enabled: true
