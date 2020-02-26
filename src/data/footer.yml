@@ -6,7 +6,7 @@ links:
     text: Developed using JAMStack
     url: 'https://jamstack.org/'
   - new_window: true
-    text: Powered by Netlify
+    text: ' Powered by Netlify'
     url: 'https://www.netlify.com'
   - new_window: true
-    text: Disclaimer
+    text: ' Disclaimer'
