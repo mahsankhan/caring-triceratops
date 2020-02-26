@@ -8,7 +8,7 @@ home_spotlights:
     the Middle East, Africa and South Asia known as MEASA DeFi.
 
 
-    #### *MEASA DeFi is a brain child of [Muhammad Ahsan
+    ## *MEASA DeFi is a brain child of [Muhammad Ahsan
     Khan](https://www.mahsankhan.info) aka MAK, Pakistani Blockchain Evangelist
     & Cryptocurrency Proponent.*
   home_img:
