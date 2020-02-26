@@ -22,9 +22,7 @@ template: page
 
 # MEASA DeFi - Decentralized Financial Services for more than a billion people living in Middle East, Africa and South Asia.
 
-#### MEASA - Middle East, Africa and South Asia
-
-#### DeFi - Decentralized Finance
+#### MEASA - Middle East, Africa and South Asia || DeFi - Decentralized Finance
 
 #### MEASA Wallet - For Individuals, Fiat to Crypto On-ramp including MEASA Dollar.
 
