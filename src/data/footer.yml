@@ -10,3 +10,5 @@ links:
     url: 'https://www.netlify.com'
   - new_window: true
     text: ' Disclaimer'
+  - new_window: true
+    text: ' Privacy Policy'
