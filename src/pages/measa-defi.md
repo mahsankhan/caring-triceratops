@@ -5,12 +5,16 @@ home_spotlights:
   excerpt: >-
     ### MEASA DeFI - An extra-ordinary mission to create an ecosystem of
     decentralized financial services for more than 1 Billion people living in
-    the Middle East, Africa and South Asia known as MEASA DeFi.
+    the Middle East, Africa and South Asia.
 
 
     ## *MEASA DeFi is a brain child of [Muhammad Ahsan
     Khan](https://www.mahsankhan.info) aka MAK, Pakistani Blockchain Evangelist
     & Cryptocurrency Proponent.*
+
+
+    MEASA DeFi is licensed by Financial Services Commission Mauritus and
+    regulated by Economic Development Board Mauritius. 
   home_img:
     data_position: top center
   weight: 3
