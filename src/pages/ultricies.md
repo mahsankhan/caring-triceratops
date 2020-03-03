@@ -3,7 +3,15 @@ title: Disrupting Industries
 content_img_path: ''
 home_spotlights:
   enabled: true
-  excerpt: We are focused to disrupt industries
+  excerpt: >-
+    ## We are focused to disrupt industries. 
+
+
+    # Drive Real World Impact with Blockchain
+
+
+    #### Leverage the potential of enterprise blockchain technology to transform
+    your business, industry and our society as a whole.
   home_img:
     data_position: 25% 25%
     path: ''
