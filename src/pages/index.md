@@ -7,10 +7,10 @@ sidebar:
       url: '#intro'
     - is_primary: false
       title: What we do
-      url: '#one'
+      url: '#what-we-do'
     - is_primary: false
-      title: What we disrupting
-      url: '#two'
+      title: What we are disrupting
+      url: '#what-we-are-disrupting'
     - is_primary: false
       title: Get in touch
       url: '#three'
@@ -19,7 +19,7 @@ sections:
       - is_primary: false
         is_scrolly: true
         label: Learn more
-        url: '#one'
+        url: '#what-we-do'
     background_style: style4
     component: Intro
     section_id: intro
@@ -33,7 +33,7 @@ sections:
       - is_primary: false
         is_scrolly: false
         label: Learn more
-        url: '#two'
+        url: '#what-we-are-disrupting'
     background_style: style4
     component: Features
     features_list:
@@ -77,7 +77,7 @@ sections:
           Phasellus convallis elit id ullam corper amet et pulvinar. Duis
           aliquam turpis mauris, sed ultricies erat dapibus.
         title: Research
-    section_id: one
+    section_id: what-we-do
     subtitle: >-
       **We help people and organizations to build, innovate and collaborate into
       businesses by unlocking the potential of Blockchain Technology.**
@@ -85,7 +85,7 @@ sections:
     type: features
   - background_style: style2
     component: Spotlights
-    section_id: two
+    section_id: what-we-are-disrupting
     title: Spotlights Section
     type: spotlights
   - background_style: style1
@@ -113,4 +113,3 @@ menus:
     weight: 1
 template: home
 ---
-
