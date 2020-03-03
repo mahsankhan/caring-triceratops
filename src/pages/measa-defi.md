@@ -40,6 +40,8 @@ template: page
 
 #### MEASA DX - Digital Assets Exchange for fund raising via security token offerings.
 
+#### MEASA CBDC - MEASA helps Central Banks to issue State backed Digital Currency
+
 #### MEASA Dollar - Stable Coin pegged with USD.
 
 #### MEASA EUR - Stable Coin pegged with Euro.
