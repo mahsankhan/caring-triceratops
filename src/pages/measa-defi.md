@@ -16,7 +16,7 @@ home_spotlights:
     MEASA DeFi is licensed by Financial Services Commission Mauritus and
     regulated by Economic Development Board Mauritius. 
   home_img:
-    data_position: top center
+    data_position: 25% 25%
   weight: 3
 template: page
 ---
