@@ -1,1 +1,14 @@
-{}
+{
+  "main": [
+    {
+      "identifier": "Home",
+      "title": "Home",
+      "url": "https://www.go4blockchain.com"
+    },
+    {
+      "identifier": "Services",
+      "title": "Services",
+      "url": "https://www.go4blockchain.com"
+    }
+  ]
+}
