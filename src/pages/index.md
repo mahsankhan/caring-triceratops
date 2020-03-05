@@ -94,7 +94,7 @@ sections:
   - type: intro
     title: Global Reach
     section_id: global-reach
-    background_style: style2
+    background_style: style3
     component: Intro
     subtitle: >-
       We are making all possible business as we have a global reach by our
