@@ -14,6 +14,8 @@ sidebar:
     - is_primary: false
       title: Get in touch
       url: '#three'
+    - is_primary: false
+      title: Global Partners
 sections:
   - actions:
       - is_primary: false
@@ -107,6 +109,14 @@ sections:
     text: Send us your query to start your Blockchain journey!
     title: Get in touch
     type: contact
+  - type: intro
+    title: Global Reach
+    section_id: intro
+    background_style: style1
+    component: Intro
+    subtitle: >-
+      We are making all possible and we have a global reach through our business
+      partners.
 menus:
   main:
     title: Home
