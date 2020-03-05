@@ -16,7 +16,7 @@ sidebar:
       url: '#global-reach'
     - is_primary: false
       title: Get in touch
-      url: '#three'
+      url: '#contact-us'
 sections:
   - actions:
       - is_primary: false
@@ -97,7 +97,7 @@ sections:
       - text: hey@go4blockchain.com
         title: Email
         url: '#'
-    section_id: three
+    section_id: contact-us
     social:
       social_icons:
         - icon: fa-medium
