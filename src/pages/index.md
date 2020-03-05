@@ -12,10 +12,11 @@ sidebar:
       title: What we are disrupting
       url: '#what-we-are-disrupting'
     - is_primary: false
+      title: We are global
+      url: '#global-reach'
+    - is_primary: false
       title: Get in touch
       url: '#three'
-    - is_primary: false
-      title: Global Partners
 sections:
   - actions:
       - is_primary: false
@@ -111,12 +112,13 @@ sections:
     type: contact
   - type: intro
     title: Global Reach
-    section_id: intro
+    section_id: global-reach
     background_style: style1
     component: Intro
     subtitle: >-
-      We are making all possible and we have a global reach through our business
-      partners.
+      We are making all possible business as we have a global reach by our
+      business partners.
+    actions: []
 menus:
   main:
     title: Home
