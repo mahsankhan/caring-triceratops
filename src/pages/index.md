@@ -91,6 +91,15 @@ sections:
     section_id: what-we-are-disrupting
     title: Spotlights Section
     type: spotlights
+  - type: intro
+    title: Global Reach
+    section_id: global-reach
+    background_style: style2
+    component: Intro
+    subtitle: >-
+      We are making all possible business as we have a global reach by our
+      business partners.
+    actions: []
   - background_style: style1
     component: Contact
     contact_list:
@@ -110,15 +119,6 @@ sections:
     text: Send us your query to start your Blockchain journey!
     title: Get in touch
     type: contact
-  - type: intro
-    title: Global Reach
-    section_id: global-reach
-    background_style: style1
-    component: Intro
-    subtitle: >-
-      We are making all possible business as we have a global reach by our
-      business partners.
-    actions: []
 menus:
   main:
     title: Home
