@@ -8,13 +8,7 @@ home_spotlights:
     the Middle East, Africa and South Asia.
 
 
-    ## *MEASA DeFi is a brain child of [Muhammad Ahsan
-    Khan](https://www.mahsankhan.info) aka MAK, Pakistani Blockchain Evangelist
-    & Cryptocurrency Proponent.*
-
-
-    MEASA DeFi is licensed by Financial Services Commission Mauritus and
-    regulated by Economic Development Board Mauritius. 
+    #### Go4 Blockchain is a technology partner of MEASA DeFi.
   home_img:
     data_position: 25% 25%
   weight: 3
@@ -22,7 +16,7 @@ template: page
 ---
 # MEASA DeFI - An extra-ordinary mission to create an ecosystem of decentralized financial services for more than 1 Billion people living in the Middle East, Africa and South Asia known as MEASA DeFi.
 
-#### *MEASA DeFi is a brain child of [Muhammad Ahsan Khan](https://www.mahsankhan.info) aka MAK, Pakistani Blockchain Evangelist & Cryptocurrency Proponent.*
+
 
 # MEASA DeFi - Decentralized Financial Services for more than a billion people living in Middle East, Africa and South Asia.
 
@@ -61,3 +55,5 @@ template: page
 #### MEASA Charity - Philanthropy for MEASA Region.
 
 #### MEASA SAFU - Secure Assets Fund for Users and ecosystem of MEASA DeFI the funds is developed to compensate lost due to cyber attack, calamity etc.
+
+#### Go4 Blockchain is a technology partner of MEASA DeFi responsible for consultancy, research, development, deployment and support.
