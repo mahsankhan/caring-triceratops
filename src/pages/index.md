@@ -68,17 +68,19 @@ sections:
         title: Use Case Development
       - icon: fa-chain
         text: >-
-          Phasellus convallis elit id ullam corper amet et pulvinar. Duis
-          aliquam turpis mauris, sed ultricies erat dapibus.
+          You are Software Developer or Business Professional, Senior Executive
+          or Manager, We offer online and in-person blockchain education.
         title: Education
       - icon: fa-diamond
         text: >-
-          Phasellus convallis elit id ullam corper amet et pulvinar. Duis
-          aliquam turpis mauris, sed ultricies erat dapibus.
+          Highly motivated to solve business and social problems using
+          Blockchain, we are ready to start the journey by co-creating full
+          scale solutions.
         title: Co Create
       - text: >-
-          Phasellus convallis elit id ullam corper amet et pulvinar. Duis
-          aliquam turpis mauris, sed ultricies erat dapibus.
+          Blockchain ecosystem is merely a decade long, we are research oriented
+          team to create disrupted solutions, we have a network of researchers
+          make all possible.
         title: Research
     section_id: what-we-do
     subtitle: >-
