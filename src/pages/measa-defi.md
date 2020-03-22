@@ -3,26 +3,25 @@ title: MEASA DeFi
 home_spotlights:
   enabled: true
   excerpt: >-
-    ### MEASA DeFI - An extra-ordinary mission to create an ecosystem of
-    decentralized financial services for more than 1 Billion people living in
-    the Middle East, Africa and South Asia.
+    ### MEASA DeFi - An extra-ordinary mission to create an ecosystem of
+    decentralized financial services for more than 1 Billion population market
+    in the Middle East, Africa and South Asia.
 
 
     #### Go4 Blockchain is a technology partner of MEASA DeFi.
   home_img:
     data_position: 25% 25%
+    path: /images/1200x628pix.png
   weight: 3
 template: page
 ---
 # MEASA DeFI - An extra-ordinary mission to create an ecosystem of decentralized financial services for more than 1 Billion people living in the Middle East, Africa and South Asia known as MEASA DeFi.
 
-
-
 # MEASA DeFi - Decentralized Financial Services for more than a billion people living in Middle East, Africa and South Asia.
 
 #### MEASA - Middle East, Africa and South Asia || DeFi - Decentralized Finance
 
-#### MEASA Wallet - For Individuals, Fiat to Crypto On-ramp including MEASA Dollar.
+#### MEASA Wallet - For Individuals, Fiat to Crypto On/Off Ramp.
 
 #### MEASA Pay - B2B and B2C Payments in Fiat and Cryptocurrency.
 
