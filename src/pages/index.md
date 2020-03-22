@@ -47,8 +47,9 @@ sections:
           needs.
         title: Solutions Design & Development
       - text: >-
-          Phasellus convallis elit id ullam corper amet et pulvinar. Duis
-          aliquam turpis mauris, sed ultricies erat dapibus.
+          Blockchain Consultants is known for cutting edge Blockchain
+          technologies. We have built in-house capability and expertise to
+          realize the full potential of this revolutionary new technology.
         title: Blockchain Consultancy
       - icon: fa-code
         text: >-
