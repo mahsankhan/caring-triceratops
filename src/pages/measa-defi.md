@@ -1,5 +1,6 @@
 ---
 title: MEASA DeFi
+content_img_path: /images/1200x628pix.jpg
 home_spotlights:
   enabled: true
   excerpt: >-
@@ -11,7 +12,7 @@ home_spotlights:
     #### Go4 Blockchain is a technology partner of MEASA DeFi.
   home_img:
     data_position: 25% 25%
-    path: /images/1200x628pix.png
+    path: ''
   weight: 3
 template: page
 ---
