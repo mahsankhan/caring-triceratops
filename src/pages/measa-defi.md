@@ -1,6 +1,6 @@
 ---
 title: MEASA DeFi
-content_img_path: /images/1200x628pix.jpg
+content_img_path: /images/1200x628pix.png
 home_spotlights:
   enabled: true
   excerpt: >-
