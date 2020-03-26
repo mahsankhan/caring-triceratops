@@ -40,7 +40,7 @@ sections:
     background_style: style4
     component: Features
     features_list:
-      - icon: fa-lock
+      - icon: fa-atom
         text: >-
           Discover, design and rapidly prototype blockchain solutions from
           proof-of-concept to technology pilot that meet your organization’s
