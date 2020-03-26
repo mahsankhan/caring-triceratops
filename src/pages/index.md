@@ -106,7 +106,7 @@ sections:
   - background_style: style1
     component: Contact
     contact_list:
-      - text: hey@go4blockchain.com
+      - text: hello@go4blockchain.com
         title: Email
         url: '#'
     section_id: contact-us
