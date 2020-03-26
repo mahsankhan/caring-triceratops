@@ -51,7 +51,7 @@ sections:
           technologies. We have built in-house capability and expertise to
           realize the full potential of this revolutionary new technology.
         title: Blockchain Consultancy
-        icon: fa-chalkboard-teacher
+        icon: fa-user-friends
       - icon: fa-code
         text: >-
           Gain insight into business model prototyping, use case discovery,
