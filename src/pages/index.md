@@ -68,7 +68,7 @@ sections:
           Jumpstart ideation, explore the art of the possible and turn concepts
           into cutting-edge solutions.
         title: Use Case Development
-      - icon: fa-book-open
+      - icon: fa-user-graduate
         text: >-
           You are Software Developer or Business Professional, Senior Executive
           or Manager, We offer online and in-person blockchain education.
