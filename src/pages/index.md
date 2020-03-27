@@ -63,7 +63,7 @@ sections:
           Benefit from seamless technical implementation, solution delivery,
           system integration, and a full suite of ongoing support services.
         title: Solution Deployment & Customer Success
-      - icon: fa-desktop
+      - icon: fa-random
         text: >-
           Jumpstart ideation, explore the art of the possible and turn concepts
           into cutting-edge solutions.
