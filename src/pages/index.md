@@ -1,5 +1,5 @@
 ---
-title: 'Blockchain Innovation, Research, Development.'
+title: 'Blockchain Consultancy, Solutions, Innovations and Education.'
 sidebar:
   entries:
     - is_primary: true
