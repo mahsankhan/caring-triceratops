@@ -1,3 +1,28 @@
 {
-  "main": []
+  "main": [
+    {
+      "identifier": "home-main",
+      "title": "Home",
+      "url": "https://www.go4blockchain.com",
+      "weight": 1
+    },
+    {
+      "identifier": "home-services",
+      "title": "Services",
+      "url": "https://www.go4blockchain.com/services",
+      "weight": 2
+    },
+    {
+      "identifier": "home-measa-defi",
+      "title": "MEASA DeFi",
+      "url": "https://www.go4blockchain.com/measa-defi",
+      "weight": 3
+    },
+    {
+      "identifier": "home-disrupting-industries",
+      "title": "Disrupting Industries",
+      "url": "https://www.go4blockchain.com/disrupting-industries",
+      "weight": 4
+    }
+  ]
 }
