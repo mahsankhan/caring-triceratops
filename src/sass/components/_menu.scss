@@ -24,13 +24,5 @@
 			}
 		}
 
-		@include breakpoint('<=xsmall') {
-			> li {
-				border-left: 0;
-				display: block;
-				line-height: inherit;
-				margin: 0.5em 0 0 0;
-				padding-left: 0;
-			}
-		}
+		
 	}
