@@ -1,12 +1,6 @@
 {
   "main": [
     {
-      "identifier": "home-main",
-      "title": "Home",
-      "url": "https://www.go4blockchain.com",
-      "weight": 1
-    },
-    {
       "identifier": "home-services",
       "title": "Services",
       "url": "https://www.go4blockchain.com/services",
