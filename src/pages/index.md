@@ -84,6 +84,7 @@ sections:
           team to create disrupted solutions, we have a network of researchers
           make all possible.
         title: Research
+        icon: fa-steam
     section_id: what-we-do
     subtitle: >-
       **We help people and organizations to build, innovate and collaborate into
