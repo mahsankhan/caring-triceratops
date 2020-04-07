@@ -3,6 +3,6 @@ title: Elements
 menus:
   main:
     title: ''
-    weight: -1
+    weight: 0
 template: elements
 ---
