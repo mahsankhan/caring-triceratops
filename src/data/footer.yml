@@ -3,13 +3,13 @@ alt_style: style4-alt
 copyright: '&copy; Go4 Blockchain. All rights reserved.'
 links:
   - new_window: true
-    text: Terms of Service
-    url: 'https://www.go4blockchain.com/terms-of-service'
-  - new_window: true
     text: ' Powered by Netlify'
     url: 'https://www.netlify.com'
   - new_window: true
-    text: ' Disclaimer'
+    text: Terms of Service
+    url: 'https://www.go4blockchain.com/terms-of-service'
   - new_window: true
     text: ' Privacy Policy'
     url: 'https://www.go4blockchain.com/privacy-policy'
+  - new_window: true
+    text: ' Disclaimer'
