@@ -3,8 +3,8 @@ alt_style: style4-alt
 copyright: '&copy; Go4 Blockchain. All rights reserved.'
 links:
   - new_window: true
-    text: Developed using JAMStack
-    url: 'https://jamstack.org/'
+    text: Terms of Service
+    url: 'https://www.go4blockchain.com/terms-of-service'
   - new_window: true
     text: ' Powered by Netlify'
     url: 'https://www.netlify.com'
