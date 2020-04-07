@@ -128,5 +128,6 @@ menus:
   main:
     title: ''
     weight: ''
+    identifier: home
 template: home
 ---
