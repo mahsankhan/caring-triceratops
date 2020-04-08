@@ -1,6 +1,12 @@
 {
   "main": [
     {
+      "identifier": "home",
+      "title": "Home",
+      "url": "#",
+      "weight": 1
+    },
+    {
       "identifier": "measa-defi",
       "title": "MEASA DeFi",
       "url": "#",
@@ -17,12 +23,6 @@
       "title": "CBDC",
       "url": "#",
       "weight": 4
-    },
-    {
-      "identifier": "home",
-      "title": "Home",
-      "url": "#",
-      "weight": 1
     }
   ]
 }
