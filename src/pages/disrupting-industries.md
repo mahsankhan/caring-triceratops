@@ -17,6 +17,7 @@ home_spotlights:
 menus:
   main:
     title: ''
+    identifier: disrupting-industries
 template: page
 ---
 ### We are focused to disrupt industries with the power of Blockchain
