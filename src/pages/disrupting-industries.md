@@ -14,6 +14,9 @@ home_spotlights:
 
     ### Leverage the potential of enterprise blockchain technology to transform
     your business, industry and our society as a whole.
+menus:
+  main:
+    title: main
 template: page
 ---
 ### We are focused to disrupt industries with the power of Blockchain
