@@ -16,7 +16,7 @@ home_spotlights:
   weight: 3
 menus:
   main:
-    title: ''
+    title: MEASA DeFi
     identifier: ''
 template: page
 ---
