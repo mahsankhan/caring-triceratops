@@ -1,5 +1,5 @@
 ---
-title: MEASA DeFi.
+title: MEASA DeFi
 content_img_path: ''
 home_spotlights:
   enabled: true
