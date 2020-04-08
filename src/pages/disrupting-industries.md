@@ -4,7 +4,7 @@ home_spotlights:
   enabled: true
   home_img:
     data_position: 25% 25%
-  weight: 3
+  weight: 4
   excerpt: >-
     ### We are focused to disrupt industries with the power of Blockchain
 
