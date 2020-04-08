@@ -16,7 +16,7 @@ home_spotlights:
     your business, industry and our society as a whole.
 menus:
   main:
-    title: ''
+    title: Disrupting Industries
     identifier: ''
 template: page
 ---
