@@ -1,3 +1,28 @@
 {
-  "main": []
+  "main": [
+    {
+      "identifier": "measa-defi",
+      "title": "MEASA DeFi",
+      "url": "#",
+      "weight": 2
+    },
+    {
+      "identifier": "disrupting-industries",
+      "title": "Disrupting Industries",
+      "url": "#",
+      "weight": 3
+    },
+    {
+      "identifier": "cbdc",
+      "title": "CBDC",
+      "url": "#",
+      "weight": 4
+    },
+    {
+      "identifier": "home",
+      "title": "Home",
+      "url": "#",
+      "weight": 1
+    }
+  ]
 }
