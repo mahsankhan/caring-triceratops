@@ -24,7 +24,7 @@ home_spotlights:
     data_position: 25% 25%
 menus:
   main:
-    title: CBDC
+    title: ''
 template: page
 ---
 # Central Bank-Issued Digital Currency (CBDC) Defined
