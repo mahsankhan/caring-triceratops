@@ -126,8 +126,8 @@ sections:
     type: contact
 menus:
   main:
-    title: Home
+    title: Main
     weight: ''
-    identifier: ''
+    identifier: Main
 template: home
 ---
