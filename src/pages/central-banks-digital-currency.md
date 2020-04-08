@@ -25,7 +25,7 @@ home_spotlights:
 menus:
   main:
     title: ''
-    identifier: cbdc
+    identifier: ''
 template: page
 ---
 # Central Bank-Issued Digital Currency (CBDC) Defined
