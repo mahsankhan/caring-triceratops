@@ -16,7 +16,7 @@ home_spotlights:
     your business, industry and our society as a whole.
 menus:
   main:
-    title: main
+    title: Disrupting Industries
 template: page
 ---
 ### We are focused to disrupt industries with the power of Blockchain
