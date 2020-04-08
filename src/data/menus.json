@@ -1,16 +1,3 @@
 {
-  "main": [
-    {
-      "identifier": "home",
-      "title": "Home",
-      "url": "https://www.go4blockchain.com",
-      "weight": 1
-    },
-    {
-      "identifier": "measa-defi",
-      "title": "MEASA DeFi",
-      "url": "https://www.go4blockchain.com/measa-defi",
-      "weight": 2
-    }
-  ]
+  "main": []
 }
