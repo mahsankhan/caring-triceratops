@@ -21,7 +21,10 @@ home_spotlights:
     [November 14th,
     2018](https://www.imf.org/en/News/Articles/2018/11/13/sp111418-winds-of-change-the-case-for-new-digital-currency)
   home_img:
-    data_position: top center
+    data_position: 25% 25%
+menus:
+  main:
+    title: CBDC
 template: page
 ---
 # Central Bank-Issued Digital Currency (CBDC) Defined
