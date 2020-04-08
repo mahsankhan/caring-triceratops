@@ -128,6 +128,6 @@ menus:
   main:
     title: ''
     weight: ''
-    identifier: main
+    identifier: ''
 template: home
 ---
