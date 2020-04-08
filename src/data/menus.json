@@ -1,3 +1,22 @@
 {
-  "main": []
+  "main": [
+    {
+      "identifier": "main",
+      "title": "MEASA DeFi",
+      "weight": 1,
+      "url": "#"
+    },
+    {
+      "identifier": "main",
+      "title": "Disurpting Industries",
+      "weight": 2,
+      "url": "#"
+    },
+    {
+      "identifier": "main",
+      "title": "About",
+      "weight": 3,
+      "url": "#"
+    }
+  ]
 }
