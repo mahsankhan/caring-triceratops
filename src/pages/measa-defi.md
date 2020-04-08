@@ -16,7 +16,7 @@ home_spotlights:
   weight: 3
 menus:
   main:
-    title: ''
+    title: main
 template: page
 ---
 # MEASA DeFI - An extra-ordinary mission to create an ecosystem of decentralized financial services for more than 1 Billion people living in the Middle East, Africa and South Asia known as MEASA DeFi.
