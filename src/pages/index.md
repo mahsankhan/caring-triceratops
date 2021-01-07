@@ -108,13 +108,13 @@ sections:
     section_id: contact-us
     social:
       social_icons:
-        - icon: fa-medium
-          title: Medium
-        - icon: fa-twitter
-          title: Twitter
-        - icon: fa-facebook
-          title: Facebook
-      title: Social
+        - icon: ""
+          title: ""
+        - icon: ""
+          title: ""
+        - icon: ""
+          title: ""
+      title: ""
     text: Send us your query to start your Blockchain journey!
     title: Get in touch
     type: contact
